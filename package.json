@@ -1,0 +1,11 @@
+{
+  "name": "satelitni-internet-opava",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web montáže satelitního internetu – Tomáš Till, Opava",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && node serve.js"
+  },
+  "engines": { "node": ">=18" }
+}
